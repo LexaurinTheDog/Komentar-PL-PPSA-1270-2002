@@ -460,11 +460,11 @@ Przepis wprowadza instytucję tzw. wyroku zobowiązującego, stanowiącego istot
 
 **Brzmienie przepisu:**
 
-> Art. 146. § 1. Sąd, uwzględniając skargę na akt lub czynność, o których mowa w art. 3 § 2 pkt 4–4b, uchyla ten akt, interpretację, opinię zabezpieczającą, opinię, o której mowa w art. 119zzl § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, lub odmowę wydania tych opinii, opinię w sprawie opodatkowania wyrównawczego, opinię zabezpieczającą w sprawie opodatkowania wyrównawczego i odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego albo stwierdza bezskuteczność czynności. Przepis art. 145 § 1 pkt 1 stosuje się odpowiednio.
+> Art. 146. § 1. Sąd, uwzględniając skargę na akt lub czynność, o których mowa w art. 3 § 2 pkt 4–4b, uchyla ten akt, interpretację, opinię zabezpieczającą, opinię, o której mowa w art. 119zzl § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, lub odmowę wydania tych opinii, opinię w sprawie opodatkowania wyrównawczego, opinię zabezpieczającą w sprawie opodatkowania wyrównawczego i odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego albo stwierdza bezskuteczność czynności.⁽⁵²⁾ Przepis art. 145 § 1 pkt 1 stosuje się odpowiednio.
 >
 > § 2. W sprawach skarg na akt lub czynność, o których mowa w art. 3 § 2 pkt 4, sąd może w wyroku uznać uprawnienie lub obowiązek wynikające z przepisów prawa.
 
-*Odnośnik w tekście jednolitym:* Zdanie pierwsze w brzmieniu ustalonym przez art. 143 pkt 3 ustawy, o której mowa w odnośniku 4.
+*Odnośnik w tekście jednolitym* 52) Zdanie pierwsze w brzmieniu ustalonym przez art. 143 pkt 3 ustawy, o której mowa w odnośniku 4.
 
 Przepis reguluje rodzaje rozstrzygnięć sądu w sprawach ze skarg na akty i czynności z zakresu prawa podatkowego, o których mowa w art. 3 § 2 pkt 4–4b (interpretacje indywidualne, opinie zabezpieczające i pokrewne akty). § 1 przewiduje uchylenie zaskarżonego aktu, interpretacji, opinii zabezpieczającej, opinii, o której mowa w art. 119zzl § 1 Ordynacji podatkowej, lub odmowy jej wydania, opinii w sprawie opodatkowania wyrównawczego, opinii zabezpieczającej w tej sprawie i odmowy jej wydania, albo stwierdzenie bezskuteczności czynności, z odpowiednim zastosowaniem art. 145 § 1 pkt 1 co do przesłanek uwzględnienia skargi. § 2 przyznaje sądowi w sprawach skarg na akty i czynności z art. 3 § 2 pkt 4 dodatkową kompetencję do uznania w wyroku uprawnienia lub obowiązku wynikającego z przepisów prawa – rozwiązanie zbliżone funkcjonalnie do orzeczeń kształtujących, a nie tylko kasatoryjnych.
 
@@ -532,9 +532,9 @@ Przepis reguluje rozstrzygnięcie sądu w razie nieuwzględnienia skargi – są
 >
 > § 3. Od wyroku, o którym mowa w § 1, nie przysługuje środek odwoławczy, z tym że na zawarte w wyroku postanowienie w przedmiocie grzywny przysługuje zażalenie.
 >
-> § 4. Przepisy § 1–3 stosuje się odpowiednio w przypadku wniesienia sprzeciwu od postanowienia.
+> § 4.⁽⁵³⁾ Przepisy § 1–3 stosuje się odpowiednio w przypadku wniesienia sprzeciwu od postanowienia.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 15 pkt 5 ustawy, o której mowa w odnośniku 6.
+*Odnośnik w tekście jednolitym* 53) Dodany przez art. 15 pkt 5 ustawy, o której mowa w odnośniku 6.
 
 Przepis reguluje rozstrzygnięcia sądu w szczególnym postępowaniu wywołanym sprzeciwem od decyzji (instytucja wprowadzona w celu przeciwdziałania nadmiernemu, nieuzasadnionemu korzystaniu przez organy odwoławcze z kasatoryjnego trybu rozstrzygania). § 1 przewiduje, że sąd uwzględniając sprzeciw uchyla decyzję w całości, jeżeli stwierdzi naruszenie art. 138 § 2 Kodeksu postępowania administracyjnego, a więc bezpodstawne uchylenie przez organ odwoławczy decyzji organu pierwszej instancji i przekazanie sprawy do ponownego rozpatrzenia mimo braku przesłanek do takiego działania; sąd może ponadto orzec, z urzędu lub na wniosek strony, o wymierzeniu organowi grzywny w wysokości z art. 154 § 6. § 2 przewiduje oddalenie sprzeciwu w razie jego nieuwzględnienia. § 3 wyłącza dopuszczalność środka odwoławczego od wyroku uwzględniającego sprzeciw (co odpowiada założeniu szybkości tego postępowania), z zastrzeżeniem zażalenia na zawarte w wyroku postanowienie w przedmiocie grzywny. § 4 nakazuje odpowiednie stosowanie § 1–3 do sprzeciwu od postanowienia, rozszerzając mechanizm sprzeciwu poza decyzje administracyjne sensu stricto.
 
@@ -596,15 +596,15 @@ Przepis wprowadza instytucję tzw. sygnalizacji – szczególnego środka reagow
 >
 > § 2. Sprostowanie sąd może postanowić na posiedzeniu niejawnym. O sprostowaniu umieszcza się wzmiankę na oryginale wyroku, a na żądanie stron także na udzielonych im odpisach. Dalsze odpisy powinny być zredagowane w brzmieniu uwzględniającym postanowienie o sprostowaniu.
 >
-> § 2a. W przypadku wyroku, o którym mowa w art. 137 § 5, wzmianka o sprostowaniu ma formę dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym.
+> § 2a.⁽⁵⁴⁾ W przypadku wyroku, o którym mowa w art. 137 § 5, wzmianka o sprostowaniu ma formę dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym.
 >
-> § 2a. W przypadku wyroku, o którym mowa w art. 137 § 5, wzmianka o sprostowaniu jest utrwalana w postaci elektronicznej i opatrywana kwalifikowanym podpisem elektronicznym.
+> § 2a.⁽⁵⁵⁾ W przypadku wyroku, o którym mowa w art. 137 § 5, wzmianka o sprostowaniu jest utrwalana w postaci elektronicznej i opatrywana kwalifikowanym podpisem elektronicznym.
 >
 > § 3. Jeżeli sprawa toczy się przed Naczelnym Sądem Administracyjnym, Sąd ten może z urzędu sprostować wyrok pierwszej instancji.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 55.
+*Odnośnik w tekście jednolitym* 54) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 55.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 96 pkt 19 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 55) W brzmieniu ustalonym przez art. 96 pkt 19 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje sprostowanie wyroku jako środek usuwania jego wad niemerytorycznych. § 1 uprawnia sąd do sprostowania z urzędu niedokładności, błędów pisarskich albo rachunkowych lub innych oczywistych omyłek w wyroku – sprostowanie dotyczy więc wyłącznie wad o charakterze technicznym, niewpływających na merytoryczną treść rozstrzygnięcia, w odróżnieniu od uzupełnienia wyroku (art. 157), które dotyczy luk w rozstrzygnięciu. § 2 przewiduje, że sprostowanie może nastąpić na posiedzeniu niejawnym, a o jego dokonaniu umieszcza się wzmiankę na oryginale wyroku oraz, na żądanie stron, na wydanych im odpisach, przy czym dalsze odpisy sporządza się już w brzmieniu uwzględniającym sprostowanie. Dwukrotnie powtórzony w źródle § 2a dotyczy wyroku utrwalonego w systemie teleinformatycznym sądu, o którym mowa w art. 137 § 5 – wzmianka o sprostowaniu przybiera wówczas formę dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym; [PRZYPIS URZĘDOWY] wskazuje, że pierwsze brzmienie § 2a obowiązuje do wejścia w życie zmiany ustalonej nowelizacją wskazaną w odnośniku 9, która nada mu treść drugą, przewidującą, że wzmianka jest utrwalana w postaci elektronicznej i opatrywana kwalifikowanym podpisem elektronicznym – zmiana ta wejdzie w życie z dniem 1 października 2029 r. i ma charakter redakcyjno-dostosowawczy, ujednolicający terminologię elektronizacji postępowania. § 3 przyznaje Naczelnemu Sądowi Administracyjnemu, przed którym toczy się sprawa, kompetencję do sprostowania z urzędu wyroku sądu pierwszej instancji – rozwiązanie praktyczne, pozwalające uniknąć zwracania sprawy do wojewódzkiego sądu administracyjnego wyłącznie w celu dokonania sprostowania.
 
@@ -818,15 +818,15 @@ Przepis wylicza zamknięty katalog podstaw kasacyjnych, na których może zosta�
 >
 > § 3. Skarga kasacyjna może być sporządzona przez:
 >
-> 1) doradcę podatkowego – w sprawach obowiązków podatkowych i celnych oraz w sprawach egzekucji administracyjnej związanej z tymi obowiązkami;
+> 1)⁽⁵⁶⁾ doradcę podatkowego – w sprawach obowiązków podatkowych i celnych oraz w sprawach egzekucji administracyjnej związanej z tymi obowiązkami;
 >
-> 1) doradcę podatkowego – w sprawach obowiązków, o których mowa w art. 2 ust. 1 pkt 1 i 3a ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2021 r. poz. 2117 oraz z 2025 r. poz. 1882);
+> 1)⁽⁵⁷⁾ doradcę podatkowego – w sprawach obowiązków, o których mowa w art. 2 ust. 1 pkt 1 i 3a ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2021 r. poz. 2117 oraz z 2025 r. poz. 1882);
 >
 > 2) rzecznika patentowego – w sprawach własności przemysłowej.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 57.
+*Odnośnik w tekście jednolitym* 56) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 57.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 2 ustawy z dnia 4 grudnia 2025 r. o zmianie ustawy o doradztwie podatkowym oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. poz. 1882), która wejdzie w życie z dniem 1 marca 2026 r.
+*Odnośnik w tekście jednolitym* 57) W brzmieniu ustalonym przez art. 2 ustawy z dnia 4 grudnia 2025 r. o zmianie ustawy o doradztwie podatkowym oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. poz. 1882), która wejdzie w życie z dniem 1 marca 2026 r.
 
 Przepis wprowadza tzw. przymus adwokacko-radcowski (przymus profesjonalnego pełnomocnictwa) przy sporządzaniu skargi kasacyjnej, uzasadniony szczególnym stopniem sformalizowania i technicznym charakterem tego środka zaskarżenia. § 1 wymaga, by skarga kasacyjna została sporządzona przez adwokata lub radcę prawnego, z zastrzeżeniem wyjątków z § 2–3. § 2 wyłącza ten wymóg, gdy skargę kasacyjną sporządza sam sędzia, prokurator, notariusz, radca Prokuratorii Generalnej Rzeczypospolitej Polskiej albo profesor lub doktor habilitowany nauk prawnych, będący stroną, jej przedstawicielem lub pełnomocnikiem, a także gdy skargę wnosi prokurator, Rzecznik Praw Obywatelskich lub Rzecznik Praw Dziecka – a więc podmioty dysponujące odpowiednimi kwalifikacjami prawniczymi lub działające w ramach swoich ustawowych kompetencji. § 2a rozszerza wyłączenie na sytuacje, w których stroną postępowania jest Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej, a także gdy czynności za organy administracji rządowej, państwowe jednostki organizacyjne nieposiadające osobowości prawnej lub Skarb Państwa podejmuje Prokuratoria Generalna. § 3 dopuszcza sporządzenie skargi kasacyjnej także przez doradcę podatkowego oraz rzecznika patentowego, lecz wyłącznie w granicach ich specjalizacji zawodowej. W tekście jednolitym pkt 1 w § 3 występuje w dwóch brzmieniach: pierwsze, ogólniejsze, obejmuje sprawy obowiązków podatkowych i celnych oraz sprawy egzekucji administracyjnej związanej z tymi obowiązkami; drugie – zgodnie z [PRZYPIS URZĘDOWY] – zawężające zakres kompetencji doradcy podatkowego do spraw obowiązków wskazanych w art. 2 ust. 1 pkt 1 i 3a ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym, zostało ustalone przez art. 2 ustawy z dnia 4 grudnia 2025 r. o zmianie ustawy o doradztwie podatkowym oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. poz. 1882) i wejdzie w życie z dniem 1 marca 2026 r.; do tego dnia obowiązuje brzmienie pierwsze. Zmiana ta ma charakter precyzujący – doprecyzowuje, do jakich konkretnie kategorii spraw podatkowych ogranicza się kompetencja doradcy podatkowego do sporządzania skargi kasacyjnej, poprzez bezpośrednie odesłanie do przepisów ustawy o doradztwie podatkowym określających zakres jego uprawnień zawodowych.
 
@@ -930,11 +930,11 @@ Przepis określa skład orzekający oraz formę rozstrzygnięcia Naczelnego Sąd
 >
 > § 2. Naczelny Sąd Administracyjny rozpoznaje skargę kasacyjną na posiedzeniu niejawnym, gdy strona, która ją wniosła, zrzekła się rozprawy, a pozostałe strony, w terminie czternastu dni od dnia doręczenia skargi kasacyjnej, nie zażądały przeprowadzenia rozprawy.
 >
-> § 2a. Naczelny Sąd Administracyjny rozpoznaje skargę kasacyjną od wyroku wojewódzkiego sądu administracyjnego oddalającego sprzeciw od decyzji lub sprzeciw od postanowienia na posiedzeniu niejawnym.
+> § 2a.⁽⁵⁸⁾ Naczelny Sąd Administracyjny rozpoznaje skargę kasacyjną od wyroku wojewódzkiego sądu administracyjnego oddalającego sprzeciw od decyzji lub sprzeciw od postanowienia na posiedzeniu niejawnym.
 >
 > § 3. Na posiedzeniu niejawnym Naczelny Sąd Administracyjny orzeka w składzie jednego sędziego, a w przypadkach, o których mowa w § 2, w składzie trzech sędziów.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 15 pkt 6 ustawy, o której mowa w odnośniku 6.
+*Odnośnik w tekście jednolitym* 58) W brzmieniu ustalonym przez art. 15 pkt 6 ustawy, o której mowa w odnośniku 6.
 
 Przepis reguluje przypadki rozpoznania skargi kasacyjnej na posiedzeniu niejawnym, stanowiące wyjątek od zasady jawnego rozpoznania na rozprawie wyrażonej w art. 181 § 1. § 1 dopuszcza fakultatywne rozpoznanie na posiedzeniu niejawnym skargi kasacyjnej od postanowienia wojewódzkiego sądu administracyjnego kończącego postępowanie w sprawie – a więc od orzeczeń o charakterze formalnym, w których jawna rozprawa jest zazwyczaj zbędna. § 2 przewiduje rozpoznanie na posiedzeniu niejawnym jako obowiązkowe, gdy strona wnosząca skargę kasacyjną zrzekła się rozprawy, a pozostałe strony w terminie czternastu dni od doręczenia skargi kasacyjnej nie zażądały jej przeprowadzenia – rozwiązanie to respektuje wolę stron, gdy żadna z nich nie domaga się jawnego rozpoznania. § 2a – zgodnie z [PRZYPIS URZĘDOWY] w brzmieniu ustalonym nowelizacją wskazaną w odnośniku 6 – nakazuje rozpoznanie na posiedzeniu niejawnym skargi kasacyjnej od wyroku oddalającego sprzeciw od decyzji lub sprzeciw od postanowienia (art. 151a), co odpowiada założeniu szybkości postępowania sprzeciwowego. § 3 określa skład na posiedzeniu niejawnym – jeden sędzia, a w przypadkach z § 2 (zrzeczenie się rozprawy) – trzech sędziów, co odzwierciedla większą wagę takich rozstrzygnięć w porównaniu ze sprawami z § 1 i 2a.
 
@@ -942,9 +942,9 @@ Przepis reguluje przypadki rozpoznania skargi kasacyjnej na posiedzeniu niejawny
 
 **Brzmienie przepisu:**
 
-> Art. 182a. Naczelny Sąd Administracyjny rozpoznaje skargę kasacyjną od wyroku wojewódzkiego sądu administracyjnego oddalającego sprzeciw od decyzji lub sprzeciw od postanowienia w terminie trzydziestu dni od dnia wpływu.
+> Art. 182a.⁽⁵⁹⁾ Naczelny Sąd Administracyjny rozpoznaje skargę kasacyjną od wyroku wojewódzkiego sądu administracyjnego oddalającego sprzeciw od decyzji lub sprzeciw od postanowienia w terminie trzydziestu dni od dnia wpływu.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 15 pkt 7 ustawy, o której mowa w odnośniku 6.
+*Odnośnik w tekście jednolitym* 59) W brzmieniu ustalonym przez art. 15 pkt 7 ustawy, o której mowa w odnośniku 6.
 
 Przepis – dodany, zgodnie z [PRZYPIS URZĘDOWY], nowelizacją wskazaną w odnośniku 6 – wprowadza szczególny, przyspieszony termin rozpoznania przez Naczelny Sąd Administracyjny skargi kasacyjnej od wyroku wojewódzkiego sądu administracyjnego oddalającego sprzeciw od decyzji lub sprzeciw od postanowienia: trzydzieści dni od dnia wpływu skargi kasacyjnej. Termin ten koresponduje z ogólnym założeniem szybkości postępowania sprzeciwowego wprowadzonego jako środek przeciwdziałania nadużywaniu przez organy odwoławcze kasatoryjnego trybu rozstrzygania spraw administracyjnych, a jednocześnie z rozpoznawaniem tej kategorii spraw na posiedzeniu niejawnym na podstawie art. 182 § 2a.
 

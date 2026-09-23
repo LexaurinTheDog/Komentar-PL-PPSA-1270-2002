@@ -28,11 +28,11 @@ Przepis reguluje współuczestnictwo formalne po stronie skarżącej, umożliwia
 >
 > § 2. Przez wyczerpanie środków zaskarżenia należy rozumieć sytuację, w której stronie nie przysługuje żaden środek zaskarżenia, taki jak zażalenie, odwołanie lub ponaglenie, przewidziany w ustawie.
 >
-> § 3. Jeżeli stronie przysługuje prawo do zwrócenia się do organu, który wydał decyzję lub postanowienie, z wnioskiem o ponowne rozpatrzenie sprawy, strona może wnieść skargę na tę decyzję lub to postanowienie bez skorzystania z tego prawa. Prawo do wniesienia skargi bez zwrócenia się do organu, który wydał decyzję lub postanowienie, z wnioskiem o ponowne rozpatrzenie sprawy nie przysługuje stronie, gdy organem, który wydał decyzję lub postanowienie, jest minister właściwy do spraw zagranicznych w zakresie spraw uregulowanych w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794) albo konsul.
+> § 3.⁽²⁷⁾ Jeżeli stronie przysługuje prawo do zwrócenia się do organu, który wydał decyzję lub postanowienie, z wnioskiem o ponowne rozpatrzenie sprawy, strona może wnieść skargę na tę decyzję lub to postanowienie bez skorzystania z tego prawa. Prawo do wniesienia skargi bez zwrócenia się do organu, który wydał decyzję lub postanowienie, z wnioskiem o ponowne rozpatrzenie sprawy nie przysługuje stronie, gdy organem, który wydał decyzję lub postanowienie, jest minister właściwy do spraw zagranicznych w zakresie spraw uregulowanych w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794) albo konsul.
 >
 > § 4. (uchylony)
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 15 pkt 2 ustawy, o której mowa w odnośniku 6.
+*Odnośnik w tekście jednolitym* 27) W brzmieniu ustalonym przez art. 15 pkt 2 ustawy, o której mowa w odnośniku 6.
 
 Przepis wyraża zasadę subsydiarności (wtórności) kontroli sądowoadministracyjnej wobec postępowania administracyjnego, nakazując co do zasady wyczerpanie toku instancyjnego przed wniesieniem skargi do sądu. Niedopełnienie tego wymogu stanowi przesłankę odrzucenia skargi. Wyjątek od zasady wyczerpania środków zaskarżenia dotyczy prokuratora, Rzecznika Praw Obywatelskich i Rzecznika Praw Dziecka, którzy – działając w interesie publicznym, a nie własnym interesie prawnym – mogą zaskarżyć rozstrzygnięcie niezależnie od wykorzystania przez stronę przysługujących jej środków. Paragraf 2 zawiera definicję legalną „wyczerpania środków zaskarżenia” jako sytuacji, w której stronie nie przysługuje już żaden środek przewidziany ustawą (zażalenie, odwołanie, ponaglenie); definicja ta nie obejmuje środków nadzwyczajnych, takich jak wznowienie postępowania czy stwierdzenie nieważności. Paragraf 3 wprowadza zasadę fakultatywności wniosku o ponowne rozpatrzenie sprawy – strona niezadowolona z decyzji wydanej w pierwszej instancji przez ministra lub samorządowe kolegium odwoławcze może wnieść skargę do sądu bezpośrednio, bez uprzedniego skorzystania z tego swoistego środka odwoławczego. Wyjątkiem jest sytuacja, w której decyzję lub postanowienie wydał minister właściwy do spraw zagranicznych w sprawach uregulowanych ustawą o cudzoziemcach albo konsul – tu wniosek o ponowne rozpatrzenie sprawy pozostaje obligatoryjnym warunkiem dopuszczalności skargi, co uzasadnione jest specyfiką postępowań wizowych i paszportowych prowadzonych przez placówki dyplomatyczno-konsularne. Uchylony § 4 nie stanowi już elementu obowiązującego stanu prawnego; jak wskazuje przypis urzędowy, obecne brzmienie przepisu zostało ukształtowane nowelizacją wskazaną w odnośniku 6 tekstu jednolitego.
 
@@ -60,7 +60,7 @@ Przepis reguluje terminy do wniesienia skargi, których zachowanie stanowi jedn�
 
 > Art. 54. § 1. Skargę do sądu administracyjnego wnosi się za pośrednictwem organu, którego działanie, bezczynność lub przewlekłe prowadzenie postępowania jest przedmiotem skargi.
 >
-> § 1a. Skargę w formie dokumentu elektronicznego wnosi się do elektronicznej skrzynki podawczej tego organu. Skargę w postaci elektronicznej wnosi się na adres do doręczeń elektronicznych tego organu.Przepis art. 49a stosuje się odpowiednio.
+> § 1a. Skargę w formie dokumentu elektronicznego wnosi się do elektronicznej skrzynki podawczej tego organu.⁽²⁸⁾ Skargę w postaci elektronicznej wnosi się na adres do doręczeń elektronicznych tego organu.⁽²⁹⁾Przepis art. 49a stosuje się odpowiednio.
 >
 > § 2. Organ, o którym mowa w § 1, przekazuje skargę sądowi wraz z kompletnymi i uporządkowanymi aktami sprawy i odpowiedzią na skargę, w postaci papierowej lub elektronicznej, w terminie trzydziestu dni od dnia jej otrzymania. Skargę wniesioną za pośrednictwem konsula oraz skargę na decyzję wydaną przez ministra właściwego do spraw zagranicznych w zakresie spraw uregulowanych w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach, minister właściwy do spraw zagranicznych przekazuje sądowi wraz z kompletnymi i uporządkowanymi aktami sprawy i odpowiedzią na skargę w terminie sześćdziesięciu dni od dnia jej otrzymania odpowiednio przez ministra właściwego do spraw zagranicznych albo konsula.
 >
@@ -74,9 +74,9 @@ Przepis reguluje terminy do wniesienia skargi, których zachowanie stanowi jedn�
 >
 > § 6. Prezydent Rzeczypospolitej Polskiej, wydając rozporządzenie, o którym mowa w § 5, uwzględni formę lub postać, w której została wniesiona skarga, postać akt sprawy, której dotyczy skarga, oraz potrzebę zachowania jednolitego standardu i bezpieczeństwa przekazywanych akt sprawy, skargi i odpowiedzi na skargę.
 
-*Odnośnik w tekście jednolitym:* Zdanie pierwsze w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 29.
+*Odnośnik w tekście jednolitym* 28) Zdanie pierwsze w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 29.
 
-*Odnośnik w tekście jednolitym:* Zdanie pierwsze w brzmieniu ustalonym przez art. 96 pkt 8 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 29) Zdanie pierwsze w brzmieniu ustalonym przez art. 96 pkt 8 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje tryb wniesienia skargi za pośrednictwem organu, którego działanie, bezczynność lub przewlekłe prowadzenie postępowania jest przedmiotem zaskarżenia – rozwiązanie odróżniające postępowanie sądowoadministracyjne od procesu cywilnego, w którym pismo wnosi się bezpośrednio do sądu. Konstrukcja ta umożliwia organowi skompletowanie akt sprawy oraz skorzystanie z instytucji autokontroli (§ 3). Paragraf 1a dopuszcza wniesienie skargi drogą elektroniczną – w formie dokumentu elektronicznego przez elektroniczną skrzynkę podawczą organu albo w postaci elektronicznej na adres do doręczeń elektronicznych, z odpowiednim stosowaniem art. 49a dotyczącego wymogów formalnych pism elektronicznych. Paragraf 2 nakłada na organ obowiązek przekazania sądowi skargi wraz z kompletnymi i uporządkowanymi aktami sprawy oraz odpowiedzią na skargę w terminie trzydziestu dni od jej otrzymania – obowiązek sankcjonowany grzywną z art. 55; termin ten wydłużono do sześćdziesięciu dni dla skarg wnoszonych za pośrednictwem konsula oraz skarg na decyzje ministra właściwego do spraw zagranicznych w sprawach cudzoziemców, co uwzględnia specyfikę obiegu dokumentów placówek zagranicznych. Paragraf 2a nakłada dodatkowy obowiązek sporządzenia uzasadnienia zaskarżonej decyzji, jeżeli organ wcześniej od niego odstąpił z uwagi na uwzględnienie żądania strony w całości – bez tego uzasadnienia sąd nie mógłby dokonać rzetelnej kontroli. Paragraf 3 statuuje instytucję autokontroli: organ może w zakresie swojej właściwości uwzględnić skargę w całości w terminie trzydziestu dni, a w przypadku skargi na decyzję – uchylić ją i wydać nową; jednocześnie organ ma obowiązek stwierdzenia, czy zaskarżone działanie, bezczynność lub przewlekłość miały miejsce bez podstawy prawnej albo z rażącym naruszeniem prawa, co ma istotne znaczenie dla ewentualnej odpowiedzialności odszkodowawczej administracji. Paragraf 4 przewiduje szczególny tryb zawiadomienia przez obwieszczenie przy skargach zbiorowych (art. 33 § 1a). Paragrafy 5–6 zawierają delegację ustawową dla Prezydenta Rzeczypospolitej Polskiej – co odzwierciedla odrębność sądownictwa administracyjnego jako władzy sądowniczej – do określenia w rozporządzeniu szczegółowego trybu przekazywania skargi wraz z aktami sprawy, z uwzględnieniem formy wniesienia skargi i potrzeby jednolitego standardu bezpieczeństwa przekazywanych dokumentów. Przypisy urzędowe sygnalizują, że zdanie pierwsze § 1a ulegnie zmianie z dniem 1 października 2029 r. w ramach pełnego wdrożenia systemu doręczeń elektronicznych (nowelizacja wskazana w odnośniku 9).
 
@@ -134,9 +134,9 @@ Przepis określa wymogi formalne skargi, których niedochowanie – po bezskutec
 
 **Brzmienie przepisu:**
 
-> Art. 57a. Skarga na pisemną interpretację przepisów prawa podatkowego wydaną w indywidualnej sprawie, opinię zabezpieczającą, opinię, o której mowa w art. 119zzl § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, i odmowę wydania tych opinii, opinię w sprawie opodatkowania wyrównawczego, opinię zabezpieczającą w sprawie opodatkowania wyrównawczego i odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego może być oparta wyłącznie na zarzucie naruszenia przepisów postępowania, dopuszczeniu się błędu wykładni lub niewłaściwej oceny co do zastosowania przepisu prawa materialnego. Sąd administracyjny jest związany zarzutami skargi oraz powołaną podstawą prawną.
+> Art. 57a.⁽³⁰⁾ Skarga na pisemną interpretację przepisów prawa podatkowego wydaną w indywidualnej sprawie, opinię zabezpieczającą, opinię, o której mowa w art. 119zzl § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, i odmowę wydania tych opinii, opinię w sprawie opodatkowania wyrównawczego, opinię zabezpieczającą w sprawie opodatkowania wyrównawczego i odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego może być oparta wyłącznie na zarzucie naruszenia przepisów postępowania, dopuszczeniu się błędu wykładni lub niewłaściwej oceny co do zastosowania przepisu prawa materialnego. Sąd administracyjny jest związany zarzutami skargi oraz powołaną podstawą prawną.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 143 pkt 2 ustawy, o której mowa w odnośniku 4.
+*Odnośnik w tekście jednolitym* 30) W brzmieniu ustalonym przez art. 143 pkt 2 ustawy, o której mowa w odnośniku 4.
 
 Przepis wprowadza istotne ograniczenie zakresu kontroli sądowej w sprawach dotyczących pisemnej interpretacji przepisów prawa podatkowego wydanej w indywidualnej sprawie, opinii zabezpieczającej, opinii wydawanej na podstawie art. 119zzl § 1 Ordynacji podatkowej oraz odmowy ich wydania, a także opinii i opinii zabezpieczającej w sprawie opodatkowania wyrównawczego (podatku minimalnego grup wielonarodowych) i odmowy ich wydania. Skarga w tych sprawach może być oparta wyłącznie na zarzucie naruszenia przepisów postępowania, dopuszczeniu się błędu wykładni lub niewłaściwej ocenie co do zastosowania przepisu prawa materialnego – jest to katalog zamknięty, węższy niż ogólna kontrola legalności przewidziana dla pozostałych aktów. Kluczowe znaczenie ma zdanie drugie: sąd administracyjny jest związany zarzutami skargi oraz powołaną podstawą prawną – stanowi to odstępstwo od zasady niezwiązania sądu granicami skargi i przenosi na skarżącego (z reguły reprezentowanego przez profesjonalnego pełnomocnika, biorąc pod uwagę specyfikę tych spraw) ciężar precyzyjnego sformułowania zarzutów, których pominięcie lub wadliwe sformułowanie może zamknąć sądowi drogę do zbadania określonego aspektu sprawy. Zgodnie z przypisem urzędowym obecne brzmienie przepisu, obejmujące także opinie w sprawie opodatkowania wyrównawczego, zostało nadane nowelizacją wskazaną w odnośniku 4.
 
@@ -316,9 +316,9 @@ Przepis wyznacza granice kognicji sądu przy rozpoznawaniu sprzeciwu – istotni
 
 **Brzmienie przepisu:**
 
-> Art. 64f. Od postanowienia, do którego odpowiednie zastosowanie ma przepis art. 138 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, skarga nie przysługuje, jednakże strona niezadowolona z treści postanowienia może wnieść od niego sprzeciw, zwany dalej „sprzeciwem od postanowienia”. Przepisy art. 64b–64e stosuje się odpowiednio.
+> Art. 64f.⁽³²⁾ Od postanowienia, do którego odpowiednie zastosowanie ma przepis art. 138 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, skarga nie przysługuje, jednakże strona niezadowolona z treści postanowienia może wnieść od niego sprzeciw, zwany dalej „sprzeciwem od postanowienia”. Przepisy art. 64b–64e stosuje się odpowiednio.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 15 pkt 4 ustawy, o której mowa w odnośniku 6.
+*Odnośnik w tekście jednolitym* 32) Dodany przez art. 15 pkt 4 ustawy, o której mowa w odnośniku 6.
 
 Przepis rozszerza instytucję sprzeciwu na postanowienia, do których odpowiednie zastosowanie ma art. 138 § 2 k.p.a. (np. niektóre postanowienia kasatoryjne w postępowaniach szczególnych) – od takiego postanowienia skarga nie przysługuje, natomiast strona niezadowolona z jego treści może wnieść sprzeciw od postanowienia. Do sprzeciwu od postanowienia stosuje się odpowiednio przepisy art. 64b–64e, a więc jego elementy treściowe, terminy i tryb wniesienia, tryb rozpoznania oraz ograniczony zakres kognicji sądu. Zgodnie z przypisem urzędowym przepis ten został dodany nowelizacją wskazaną w odnośniku 6, rozszerzającą zakres stosowania instytucji sprzeciwu, pierwotnie zastrzeżonej wyłącznie dla decyzji.
 
@@ -328,13 +328,13 @@ Przepis rozszerza instytucję sprzeciwu na postanowienia, do których odpowiedni
 
 **Brzmienie przepisu:**
 
-> Art. 65. § 1. Sąd dokonuje doręczeń przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), przez swoich pracowników lub przez inne upoważnione przez sąd osoby lub organy albo za pomocą środków komunikacji elektronicznej, na warunkach określonych w art. 74a.
+> Art. 65.⁽³³⁾ § 1. Sąd dokonuje doręczeń przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), przez swoich pracowników lub przez inne upoważnione przez sąd osoby lub organy albo za pomocą środków komunikacji elektronicznej, na warunkach określonych w art. 74a.
 >
 > § 2. Do doręczania pism w postępowaniu sądowym przez operatora pocztowego, stosuje się tryb doręczania pism sądowych w postępowaniu cywilnym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 >
 > § 3. (uchylony)
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 34.
+*Odnośnik w tekście jednolitym* 33) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 34.
 
 Przepis otwiera rozdział 4, regulujący sposób dokonywania doręczeń przez sąd administracyjny – zagadnienie o istotnym znaczeniu dla biegu terminów procesowych i gwarancji uczestnictwa stron w postępowaniu. Paragraf 1 określa katalog dopuszczalnych sposobów doręczeń w stanie prawnym obowiązującym do wejścia w życie reformy doręczeń elektronicznych: doręczenie przez operatora pocztowego w rozumieniu Prawa pocztowego, przez pracowników sądu, przez inne upoważnione przez sąd osoby lub organy, a także za pomocą środków komunikacji elektronicznej na warunkach określonych w art. 74a. Paragraf 2 odsyła do trybu doręczania pism sądowych w postępowaniu cywilnym jako regulacji uzupełniającej dla doręczeń dokonywanych przez operatora pocztowego, z zastrzeżeniem pierwszeństwa przepisów szczególnych niniejszego rozdziału. Paragraf 3 został uchylony. Jak wskazuje przypis urzędowy, przedstawione brzmienie przepisu obowiązuje wyłącznie do wejścia w życie zmiany wskazanej w odnośniku 34, po której zastosowanie znajdzie brzmienie przedstawione w kolejnej jednostce redakcyjnej (art. 65 w wersji 2).
 
@@ -342,13 +342,13 @@ Przepis otwiera rozdział 4, regulujący sposób dokonywania doręczeń przez s�
 
 **Brzmienie przepisu:**
 
-> Art. 65. § 1. Sąd doręcza pisma na adres do doręczeń elektronicznych na zasadach określonych w art. 65a.
+> Art. 65.⁽³⁴⁾ § 1. Sąd doręcza pisma na adres do doręczeń elektronicznych na zasadach określonych w art. 65a.
 >
 > § 2. W przypadku braku możliwości doręczenia w sposób, o którym mowa w § 1, sąd doręcza pisma przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), przez swoich pracowników lub przez inne upoważnione przez sąd osoby lub organy.
 >
 > § 3. Do doręczania pism w postępowaniu sądowym przez operatora pocztowego stosuje się tryb doręczania pism sądowych w postępowaniu cywilnym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 96 pkt 9 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 34) W brzmieniu ustalonym przez art. 96 pkt 9 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis przedstawia docelowe brzmienie regulacji o doręczeniach, które wejdzie w życie 1 października 2029 r. na mocy nowelizacji wskazanej w odnośniku 9, odzwierciedlając pełne wdrożenie systemu doręczeń elektronicznych w postępowaniu sądowoadministracyjnym. Paragraf 1 wprowadza zasadę pierwszeństwa doręczenia na adres do doręczeń elektronicznych, dokonywanego na zasadach określonych w nowo dodanym art. 65a – jest to odwrócenie dotychczasowej hierarchii, w której doręczenie elektroniczne stanowi jedną z opcji uzależnioną od warunków z art. 74a, podczas gdy w wersji docelowej staje się zasadą podstawową. Paragraf 2 nadaje doręczeniu tradycyjnemu – przez operatora pocztowego, pracowników sądu lub inne upoważnione osoby czy organy – charakter subsydiarny, stosowany dopiero w razie braku możliwości doręczenia elektronicznego. Paragraf 3 utrzymuje, analogicznie do dotychczasowego § 2, odpowiednie stosowanie trybu doręczeń przyjętego w postępowaniu cywilnym. Zmiana ta pozostaje w ścisłym związku z równoległym uchyleniem dotychczasowego art. 74a (por. art. 74a w wersji 2) oraz dodaniem nowych przepisów art. 65a–65b, regulujących szczegółowo mechanizm doręczeń elektronicznych.
 
@@ -356,7 +356,7 @@ Przepis przedstawia docelowe brzmienie regulacji o doręczeniach, które wejdzie
 
 **Brzmienie przepisu:**
 
-> Art. 65a. § 1. Sąd doręcza stronie pisma na adres do doręczeń elektronicznych:
+> Art. 65a.⁽³⁵⁾ § 1. Sąd doręcza stronie pisma na adres do doręczeń elektronicznych:
 >
 > 1) wpisany do bazy adresów elektronicznych, a w przypadku pełnomocnika na adres do doręczeń elektronicznych wskazany w piśmie, albo 2) powiązany z kwalifikowaną usługą rejestrowanego doręczenia elektronicznego, za pomocą której wniesiono pismo, jeżeli adres do doręczeń elektronicznych strony nie został wpisany do bazy adresów elektronicznych.
 >
@@ -368,7 +368,7 @@ Przepis przedstawia docelowe brzmienie regulacji o doręczeniach, które wejdzie
 >
 > § 5. W przypadku nieodebrania pisma przez adresata doręczenie uważa się za dokonane w dniu określonym w dowodzie otrzymania wystawionym automatycznie po upływie czternastu dni, licząc od dnia wpłynięcia pisma na adres do doręczeń elektronicznych.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 96 pkt 10 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 35) Dodany przez art. 96 pkt 10 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis dodany nowelizacją wskazaną w odnośniku 9, wchodzący w życie 1 października 2029 r. wraz z art. 65 w wersji 2 – wprowadza szczegółową regulację doręczeń na adres do doręczeń elektronicznych, zastępującą dotychczasowy mechanizm z art. 74a. Paragraf 1 wskazuje dwie podstawy doręczenia elektronicznego: adres wpisany do bazy adresów elektronicznych, a dla pełnomocnika – adres wskazany w piśmie (pkt 1), albo adres powiązany z kwalifikowaną usługą rejestrowanego doręczenia elektronicznego, gdy adres strony nie figuruje w bazie adresów elektronicznych (pkt 2). Paragraf 2 wprowadza istotne ograniczenie podmiotowe – wobec osoby fizycznej doręczenie elektroniczne jest dopuszczalne tylko wtedy, gdy sama zainicjowała komunikację elektroniczną, wnosząc pismo z takiego adresu albo wskazując go jako adres do doręczeń; ochrona ta nie obejmuje przedsiębiorców wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, dla których doręczenie elektroniczne jest regułą niezależnie od ich inicjatywy. Paragraf 3 nakazuje obligatoryjne doręczanie na adres z bazy adresów elektronicznych podmiotom publicznym i funkcyjnym uczestniczącym w postępowaniu – organowi, którego działanie zaskarżono, prokuratorowi, Rzecznikowi Praw Obywatelskich, Rzecznikowi Praw Dziecka oraz Rzecznikowi Małych i Średnich Przedsiębiorców. Paragraf 4 wiąże skuteczność doręczenia z dniem wystawienia dowodu otrzymania w rozumieniu art. 41 ustawy o doręczeniach elektronicznych. Paragraf 5 wprowadza fikcję doręczenia po bezskutecznym upływie czternastu dni od wpłynięcia pisma na adres elektroniczny, potwierdzoną automatycznie wystawionym dowodem otrzymania – rozwiązanie analogiczne do tradycyjnej awizacji pocztowej, przeniesione na grunt komunikacji elektronicznej.
 
@@ -376,9 +376,9 @@ Przepis dodany nowelizacją wskazaną w odnośniku 9, wchodzący w życie 1 paź
 
 **Brzmienie przepisu:**
 
-> Art. 65b. Pisma sądu, odpisy pism i załączników w postępowaniu sądowym oraz orzeczeń doręczane przez sąd w postaci elektronicznej opatrzone są kwalifikowanym podpisem elektronicznym albo kwalifikowaną pieczęcią elektroniczną.
+> Art. 65b.⁽³⁵⁾ Pisma sądu, odpisy pism i załączników w postępowaniu sądowym oraz orzeczeń doręczane przez sąd w postaci elektronicznej opatrzone są kwalifikowanym podpisem elektronicznym albo kwalifikowaną pieczęcią elektroniczną.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 96 pkt 10 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 35) Dodany przez art. 96 pkt 10 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis dodany tą samą nowelizacją, wchodzący w życie 1 października 2029 r. – ustanawia wymóg opatrywania pism sądu, odpisów pism i załączników w postępowaniu sądowym oraz orzeczeń doręczanych elektronicznie kwalifikowanym podpisem elektronicznym albo kwalifikowaną pieczęcią elektroniczną. Wymóg ten stanowi gwarancję autentyczności i integralności dokumentu elektronicznego, będąc funkcjonalnym odpowiednikiem podpisu własnoręcznego i pieczęci urzędowej stosowanych w tradycyjnym obrocie papierowym.
 
@@ -386,7 +386,7 @@ Przepis dodany tą samą nowelizacją, wchodzący w życie 1 października 2029 
 
 **Brzmienie przepisu:**
 
-> Art. 66. § 1. W toku sprawy adwokaci, radcy prawni, doradcy podatkowi, rzecznicy patentowi i Prokuratoria Generalna Rzeczypospolitej Polskiej doręczają sobie nawzajem pisma bezpośrednio za potwierdzeniem odbioru i oznaczeniem daty lub przesyłką poleconą. W treści pisma procesowego wniesionego do sądu zamieszcza się oświadczenie o doręczeniu odpisu pisma drugiej stronie albo o jego nadaniu przesyłką poleconą. Pisma niezawierające powyższego oświadczenia podlegają zwrotowi bez wzywania do usunięcia tego braku.
+> Art. 66.⁽³⁶⁾ § 1. W toku sprawy adwokaci, radcy prawni, doradcy podatkowi, rzecznicy patentowi i Prokuratoria Generalna Rzeczypospolitej Polskiej doręczają sobie nawzajem pisma bezpośrednio za potwierdzeniem odbioru i oznaczeniem daty lub przesyłką poleconą. W treści pisma procesowego wniesionego do sądu zamieszcza się oświadczenie o doręczeniu odpisu pisma drugiej stronie albo o jego nadaniu przesyłką poleconą. Pisma niezawierające powyższego oświadczenia podlegają zwrotowi bez wzywania do usunięcia tego braku.
 >
 > § 1a. Przepis § 1 nie dotyczy pism wnoszonych w formie dokumentu elektronicznego, podlegających doręczeniu adwokatowi, radcy prawnemu, doradcy podatkowemu, rzecznikowi patentowemu lub Prokuratorii Generalnej Rzeczypospolitej Polskiej, którzy stosują środki komunikacji elektronicznej do odbioru pism.
 >
@@ -394,7 +394,7 @@ Przepis dodany tą samą nowelizacją, wchodzący w życie 1 października 2029 
 >
 > § 3. Przepis § 1 nie dotyczy wniesienia skargi, skargi kasacyjnej, zażalenia, sprzeciwu, skargi o wznowienie postępowania i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 37.
+*Odnośnik w tekście jednolitym* 36) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 37.
 
 Przepis wprowadza szczególny tryb doręczeń dokonywanych bezpośrednio między profesjonalnymi pełnomocnikami – adwokatami, radcami prawnymi, doradcami podatkowymi, rzecznikami patentowymi – oraz Prokuratorią Generalną Rzeczypospolitej Polskiej, mający na celu odciążenie sądu i przyspieszenie obiegu pism procesowych. Paragraf 1 nakłada obowiązek wzajemnego doręczania sobie pism bezpośrednio, za potwierdzeniem odbioru z oznaczeniem daty lub przesyłką poleconą, oraz zamieszczenia w piśmie procesowym wnoszonym do sądu oświadczenia o doręczeniu odpisu pisma drugiej stronie albo o jego nadaniu przesyłką poleconą; brak takiego oświadczenia skutkuje zwrotem pisma bez wzywania do usunięcia tego braku – rygor surowszy niż przy zwykłych brakach formalnych, uzasadniony profesjonalnym charakterem pełnomocników. Paragraf 1a wyłącza ten rygor wobec pism wnoszonych w formie dokumentu elektronicznego, podlegających doręczeniu podmiotom, które stosują środki komunikacji elektronicznej do odbioru pism – system elektroniczny sam zapewnia dostęp drugiej stronie do treści pisma. Paragraf 2 dopuszcza alternatywnie doręczenie adresatowi przez wręczenie mu pisma bezpośrednio w sekretariacie sądu. Paragraf 3 wyłącza obowiązek doręczeń bezpośrednich w odniesieniu do pism inicjujących nowe etapy lub środki postępowania – skargi, skargi kasacyjnej, zażalenia, sprzeciwu, skargi o wznowienie postępowania i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia – które zawsze doręcza sąd, co zapewnia kontrolę formalną i prawidłowe otwarcie biegu terminów dla drugiej strony. Zgodnie z przypisem urzędowym przedstawione brzmienie obowiązuje do wejścia w życie zmiany wskazanej w odnośniku 37.
 
@@ -402,11 +402,11 @@ Przepis wprowadza szczególny tryb doręczeń dokonywanych bezpośrednio między
 
 **Brzmienie przepisu:**
 
-> Art. 66. § 1. W toku sprawy adwokaci, radcowie prawni, doradcy podatkowi, rzecznicy patentowi i Prokuratoria Generalna Rzeczypospolitej Polskiej doręczają sobie nawzajem pisma na wskazane adresy do doręczeń elektronicznych. W treści pisma procesowego wniesionego do sądu zamieszcza się oświadczenie o doręczeniu pisma drugiej stronie na adres do doręczeń elektronicznych. Pisma niezawierające powyższego oświadczenia podlegają zwrotowi bez wzywania do usunięcia tego braku.
+> Art. 66.⁽³⁷⁾ § 1. W toku sprawy adwokaci, radcowie prawni, doradcy podatkowi, rzecznicy patentowi i Prokuratoria Generalna Rzeczypospolitej Polskiej doręczają sobie nawzajem pisma na wskazane adresy do doręczeń elektronicznych. W treści pisma procesowego wniesionego do sądu zamieszcza się oświadczenie o doręczeniu pisma drugiej stronie na adres do doręczeń elektronicznych. Pisma niezawierające powyższego oświadczenia podlegają zwrotowi bez wzywania do usunięcia tego braku.
 >
 > § 2. Przepis § 1 nie dotyczy wniesienia skargi, sprzeciwu od decyzji, skargi kasacyjnej, odpowiedzi na skargę kasacyjną, zażalenia, sprzeciwu, skargi o wznowienie postępowania i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 14 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860); wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 37) W brzmieniu ustalonym przez art. 14 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860); wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis przedstawia docelowe brzmienie regulacji doręczeń bezpośrednich między pełnomocnikami, wchodzące w życie 1 października 2029 r. na mocy nowelizacji z dnia 7 lipca 2023 r. wskazanej w przypisie urzędowym (Dz. U. poz. 1860), dostosowujące tę instytucję do systemu doręczeń elektronicznych. Paragraf 1 zastępuje doręczenie „papierowe” (za potwierdzeniem odbioru lub przesyłką poleconą) doręczeniem na wskazane adresy do doręczeń elektronicznych, z analogicznym obowiązkiem zamieszczenia w piśmie procesowym oświadczenia o doręczeniu odpisu pisma drugiej stronie na adres elektroniczny, pod rygorem zwrotu pisma bez wzywania do usunięcia braku. Paragraf 2 zawiera rozszerzony, w porównaniu z dotychczasowym § 3, katalog pism wyłączonych z obowiązku doręczeń bezpośrednich, dodając odpowiedź na skargę kasacyjną oraz sprzeciw od decyzji – co odzwierciedla rozwój ustawy o nowe instytucje procesowe, nieznane w pierwotnym stanie prawnym.
 
@@ -418,17 +418,17 @@ Przepis przedstawia docelowe brzmienie regulacji doręczeń bezpośrednich międ
 >
 > § 2. Pisma w postępowaniu sądowym lub orzeczenia dla osoby prawnej, jak również dla jednostki organizacyjnej nieposiadającej osobowości prawnej, doręcza się organowi uprawnionemu do reprezentowania ich przed sądem lub do rąk pracownika upoważnionego do odbioru pism.
 >
-> § 3. Pisma w postępowaniu sądowym dla przedsiębiorców i wspólników spółek handlowych, wpisanych do rejestru sądowego na podstawie odrębnych przepisów, doręcza się na adres podany w rejestrze, chyba że strona wskazała inny adres dla doręczeń.
+> § 3.⁽³⁸⁾ Pisma w postępowaniu sądowym dla przedsiębiorców i wspólników spółek handlowych, wpisanych do rejestru sądowego na podstawie odrębnych przepisów, doręcza się na adres podany w rejestrze, chyba że strona wskazała inny adres dla doręczeń.
 >
-> § 3. Pisma w postępowaniu sądowym dla przedsiębiorców i wspólników spółek handlowych, wpisanych do rejestru sądowego na podstawie odrębnych przepisów, doręcza się na adres do doręczeń elektronicznych, chyba że strona wskazała inny adres do doręczeń.
+> § 3.⁽³⁹⁾ Pisma w postępowaniu sądowym dla przedsiębiorców i wspólników spółek handlowych, wpisanych do rejestru sądowego na podstawie odrębnych przepisów, doręcza się na adres do doręczeń elektronicznych, chyba że strona wskazała inny adres do doręczeń.
 >
 > § 4. W razie niemożności doręczenia w sposób określony w § 3, stosuje się odpowiednio art. 70 § 2.
 >
 > § 5. Jeżeli ustanowiono pełnomocnika lub osobę upoważnioną do odbioru pism w postępowaniu sądowym, doręczenia należy dokonać tym osobom.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 39.
+*Odnośnik w tekście jednolitym* 38) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 39.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 96 pkt 12 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 39) W brzmieniu ustalonym przez art. 96 pkt 12 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje zasady doręczeń uzależnione od statusu podmiotowego adresata. Paragraf 1 przewiduje wobec osób fizycznych doręczenie osobiste, a w razie braku zdolności procesowej – doręczenie przedstawicielowi ustawowemu. Paragraf 2 nakazuje wobec osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej doręczanie pism i orzeczeń organowi uprawnionemu do ich reprezentowania przed sądem lub upoważnionemu pracownikowi. Paragraf 3, przedstawiony w tekście jednolitym w dwóch redakcjach obrazujących etapowe wprowadzanie zmiany, dotyczy przedsiębiorców i wspólników spółek handlowych wpisanych do rejestru sądowego: obecnie doręczenie następuje na adres wskazany w rejestrze, chyba że strona wskazała inny adres do doręczeń, docelowo natomiast – po wejściu w życie zmiany – doręczenie będzie następować na adres do doręczeń elektronicznych, co jest konsekwencją obowiązkowego posiadania takiego adresu przez podmioty rejestrowe w ramach reformy doręczeń elektronicznych. Paragraf 4 odsyła subsydiarnie do trybu z art. 70 § 2 (pozostawienie pisma w aktach ze skutkiem doręczenia) w razie niemożności doręczenia w sposób opisany w § 3. Paragraf 5 przyznaje pierwszeństwo doręczeniu do rąk ustanowionego pełnomocnika lub osoby upoważnionej do odbioru pism przed doręczeniem bezpośrednio stronie.
 
@@ -456,17 +456,17 @@ Przepis określa miejsca dokonywania doręczeń. Paragraf 1 wyraża zasadę ogó
 
 **Brzmienie przepisu:**
 
-> Art. 70. § 1. Strony i ich przedstawiciele mają obowiązek zawiadamiać sąd o każdej zmianie miejsca zamieszkania, adresu do doręczeń, w tym adresu elektronicznego, lub siedziby.
+> Art. 70. § 1.⁽⁴⁰⁾ Strony i ich przedstawiciele mają obowiązek zawiadamiać sąd o każdej zmianie miejsca zamieszkania, adresu do doręczeń, w tym adresu elektronicznego, lub siedziby.
 >
-> § 1. Strony i ich przedstawiciele mają obowiązek zawiadamiać sąd o każdej zmianie miejsca zamieszkania lub siedziby oraz adresu do doręczeń, w tym adresu do doręczeń elektronicznych.
+> § 1.⁽⁴¹⁾ Strony i ich przedstawiciele mają obowiązek zawiadamiać sąd o każdej zmianie miejsca zamieszkania lub siedziby oraz adresu do doręczeń, w tym adresu do doręczeń elektronicznych.
 >
 > § 2. W razie zaniedbania tego obowiązku pismo pozostawia się w aktach sprawy ze skutkiem doręczenia, chyba że nowy adres jest sądowi znany. O powyższym obowiązku i skutkach jego niedopełnienia sąd powinien pouczyć stronę przy pierwszym doręczeniu.
 >
 > § 3. Przepisu § 2 nie stosuje się do doręczenia skargi o wznowienie postępowania.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 41.
+*Odnośnik w tekście jednolitym* 40) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 41.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 96 pkt 13 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 41) W brzmieniu ustalonym przez art. 96 pkt 13 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis nakłada na strony i ich przedstawicieli obowiązek informacyjny wobec sądu, którego dopełnienie jest warunkiem prawidłowego funkcjonowania systemu doręczeń. Paragraf 1, przedstawiony w tekście jednolitym w dwóch redakcjach różniących się jedynie kolejnością wymienianych elementów bez zmiany istoty normy, nakłada obowiązek zawiadamiania sądu o każdej zmianie miejsca zamieszkania, siedziby oraz adresu do doręczeń, w tym adresu do doręczeń elektronicznych. Paragraf 2 przewiduje sankcję niedopełnienia tego obowiązku – fikcję doręczenia przez pozostawienie pisma w aktach sprawy, chyba że nowy adres jest sądowi znany z innego źródła; warunkiem zastosowania tej sankcji jest uprzednie pouczenie strony o obowiązku i jego skutkach przy pierwszym doręczeniu, co stanowi gwarancję rzetelności postępowania. Paragraf 3 wyłącza zastosowanie tej sankcji do doręczenia skargi o wznowienie postępowania – z uwagi na nadzwyczajny charakter tego środka oraz często znaczny upływ czasu od zakończenia sprawy ustawodawca chroni tu adresata silniej niż w toku zwykłego postępowania.
 
@@ -520,7 +520,7 @@ Przepis reguluje skutki odmowy przyjęcia pisma przez adresata. Paragraf 1 nakł
 
 **Brzmienie przepisu:**
 
-> Art. 74a. § 1. Doręczenie pism przez sąd następuje za pomocą środków komunikacji elektronicznej, jeżeli strona spełniła jeden z następujących warunków:
+> Art. 74a.⁽⁴²⁾ § 1. Doręczenie pism przez sąd następuje za pomocą środków komunikacji elektronicznej, jeżeli strona spełniła jeden z następujących warunków:
 >
 > 1) wniosła pismo w formie dokumentu elektronicznego przez elektroniczną skrzynkę podawczą sądu lub organu, za pośrednictwem którego składane jest pismo;
 >
@@ -554,7 +554,7 @@ Przepis reguluje skutki odmowy przyjęcia pisma przez adresata. Paragraf 1 nakł
 >
 > § 12. Pisma sądu, odpisy pism i załączników w postępowaniu sądowym oraz orzeczeń, doręczane przez sąd w formie dokumentu elektronicznego, są opatrzone kwalifikowanym podpisem elektronicznym albo kwalifikowaną pieczęcią elektroniczną.
 
-*Odnośnik w tekście jednolitym:* Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 43.
+*Odnośnik w tekście jednolitym* 42) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 43.
 
 Przepis zawiera obszerną regulację doręczeń pism przez sąd za pomocą środków komunikacji elektronicznej w dotychczasowym, przejściowym (do 2029 r.) stanie prawnym, stanowiąc poprzedniczkę nowej regulacji z art. 65a. Paragraf 1 wskazuje trzy alternatywne przesłanki dopuszczalności doręczenia elektronicznego: wniesienie przez stronę pisma w formie dokumentu elektronicznego przez elektroniczną skrzynkę podawczą sądu lub organu pośredniczącego (pkt 1), wystąpienie strony do sądu o taki sposób doręczenia ze wskazaniem adresu elektronicznego (pkt 2), oraz wyrażenie przez stronę zgody na doręczanie pism tą drogą wraz ze wskazaniem adresu elektronicznego (pkt 3) – w przeciwieństwie do docelowego modelu z art. 65a, obecnie doręczenie elektroniczne wymaga inicjatywy lub zgody strony, nie jest zasadą domyślną. Paragraf 2 przyznaje stronie prawo rezygnacji z doręczeń elektronicznych w toku sprawy, ze skutkiem powrotu do doręczeń w formie innej niż dokument elektroniczny, przy czym oświadczenie o rezygnacji musi mieć formę dokumentu elektronicznego – zachowanie spójności formy z materią, której dotyczy. Paragrafy 3–4 opisują dwuetapowy mechanizm zawiadomienia o możliwości odbioru pisma elektronicznego wraz z pouczeniem o sposobie identyfikacji adresata i wymogu podpisania urzędowego poświadczenia odbioru, z możliwością automatycznego generowania zawiadomienia przez system teleinformatyczny sądu bez potrzeby potwierdzania jego odbioru. Paragraf 5 wiąże datę doręczenia z datą podpisania przez adresata urzędowego poświadczenia odbioru. Paragrafy 6–8 wprowadzają mechanizm awizacji elektronicznej, analogiczny do awizacji pocztowej – powtórne zawiadomienie po upływie siedmiu dni bezskuteczności pierwszego, a fikcję doręczenia po upływie czternastu dni od przesłania pierwszego zawiadomienia. Paragraf 9 nakłada obowiązek zapewnienia adresatowi dostępu do treści pisma elektronicznego przez co najmniej trzy miesiące od dnia uznania go za doręczone, wraz z informacją o dacie doręczenia i datach wysłania zawiadomień – gwarancja dowodowa umożliwiająca weryfikację prawidłowości doręczenia. Paragrafy 10–11 przewidują szczególny tryb doręczeń wobec podmiotów publicznych i funkcyjnych – prokuratora, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka oraz organu, którego działanie zaskarżono – bezpośrednio do elektronicznej skrzynki podawczej za urzędowym poświadczeniem odbioru, z datą doręczenia określoną w tym poświadczeniu. Paragraf 12 wymaga opatrzenia pism i orzeczeń doręczanych elektronicznie kwalifikowanym podpisem elektronicznym albo kwalifikowaną pieczęcią elektroniczną – odpowiednik obecnego art. 65b w wersji docelowej. Zgodnie z przypisem urzędowym przepis obowiązuje do wejścia w życie zmiany wskazanej w odnośniku 43, po którym zostanie uchylony w całości (art. 74a w wersji 2) i zastąpiony systemem uregulowanym w art. 65a.
 
@@ -562,9 +562,9 @@ Przepis zawiera obszerną regulację doręczeń pism przez sąd za pomocą środ
 
 **Brzmienie przepisu:**
 
-> Art. 74a. (uchylony)
+> Art. 74a. (uchylony)⁽⁴³⁾
 
-*Odnośnik w tekście jednolitym:* Przez art. 96 pkt 14 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 43) Przez art. 96 pkt 14 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis stanowi uchylenie całego dotychczasowego art. 74a z dniem 1 października 2029 r., w związku z zastąpieniem opisanego w nim modelu doręczeń elektronicznych – fakultatywnych, uzależnionych od inicjatywy lub zgody strony – nowym, obligatoryjnym modelem doręczeń na adres do doręczeń elektronicznych, uregulowanym w dodanych przepisach art. 65 w wersji 2 oraz art. 65a–65b. Zgodnie z przypisem urzędowym zmiana ta została wprowadzona art. 96 pkt 14 nowelizacji wskazanej w odnośniku 9.
 
@@ -574,13 +574,13 @@ Przepis stanowi uchylenie całego dotychczasowego art. 74a z dniem 1 październi
 
 > Art. 75. § 1. Pisma w postępowaniu sądowym i orzeczenia doręcza się w odpisach.
 >
-> § 2. Pisma w postępowaniu sądowym i orzeczenia mogą być doręczane w formie dokumentu elektronicznego zawierającego dane z systemu teleinformatycznego sądu.
+> § 2.⁽⁴⁴⁾ Pisma w postępowaniu sądowym i orzeczenia mogą być doręczane w formie dokumentu elektronicznego zawierającego dane z systemu teleinformatycznego sądu.
 >
-> § 2. Pisma w postępowaniu sądowym i orzeczenia mogą być doręczane w postaci elektronicznej zawierającej dane z systemu teleinformatycznego sądu.
+> § 2.⁽⁴⁵⁾ Pisma w postępowaniu sądowym i orzeczenia mogą być doręczane w postaci elektronicznej zawierającej dane z systemu teleinformatycznego sądu.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 45.
+*Odnośnik w tekście jednolitym* 44) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 45.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 96 pkt 15 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 45) W brzmieniu ustalonym przez art. 96 pkt 15 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis określa formę pism doręczanych przez sąd. Paragraf 1 wyraża zasadę doręczania pism i orzeczeń w odpisach, a nie w oryginałach – rozwiązanie chroniące integralność akt sprawy i zapewniające stronie własny egzemplarz dokumentu. Paragraf 2, przedstawiony w tekście jednolitym w dwóch redakcjach odzwierciedlających terminologiczne dostosowanie od „formy dokumentu elektronicznego” do „postaci elektronicznej” zgodnie z terminologią ustawy o doręczeniach elektronicznych, dopuszcza doręczanie pism i orzeczeń w formie lub postaci elektronicznej zawierającej dane z systemu teleinformatycznego sądu – stanowi to podstawę prawną dla praktyki generowania odpisów elektronicznych bezpośrednio z systemów teleinformatycznych sądownictwa administracyjnego.
 
@@ -602,13 +602,13 @@ Przepis reguluje zasady doręczeń przy wielości osób występujących po jedne
 
 > Art. 77. § 1. Odbierający pismo potwierdza odbiór i jego datę własnoręcznym podpisem. Jeżeli tego nie może lub nie chce uczynić, doręczający sam oznacza datę doręczenia oraz przyczyny braku podpisu.
 >
-> § 1a. Potwierdzenie odbioru pisma w formie dokumentu elektronicznego następuje w sposób określony w art. 74a § 5 lub 10.
+> § 1a.⁽⁴⁶⁾ Potwierdzenie odbioru pisma w formie dokumentu elektronicznego następuje w sposób określony w art. 74a § 5 lub 10.
 >
-> § 1a. (uchylony) § 2. Doręczający stwierdza na potwierdzeniu odbioru sposób doręczenia, a na doręczonym piśmie zaznacza dzień doręczenia i opatruje to stwierdzenie swoim podpisem.
+> § 1a. (uchylony)⁽⁴⁷⁾ § 2. Doręczający stwierdza na potwierdzeniu odbioru sposób doręczenia, a na doręczonym piśmie zaznacza dzień doręczenia i opatruje to stwierdzenie swoim podpisem.
 
-*Odnośnik w tekście jednolitym:* Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 47.
+*Odnośnik w tekście jednolitym* 46) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 47.
 
-*Odnośnik w tekście jednolitym:* Przez art. 96 pkt 16 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 47) Przez art. 96 pkt 16 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje formalności potwierdzenia doręczenia pisma. Paragraf 1 wyraża zasadę, że odbierający pismo potwierdza jego odbiór i datę własnoręcznym podpisem, a jeżeli nie może lub nie chce tego uczynić, doręczający sam oznacza datę doręczenia oraz przyczyny braku podpisu – funkcja dowodowa czynności doręczenia realizowana jest wówczas niezależnie od woli adresata. Paragraf 1a, przedstawiony w tekście jednolitym w dwóch wersjach – obecnie obowiązującej i uchylanej z dniem wejścia w życie reformy doręczeń – odsyła obecnie w zakresie potwierdzenia odbioru pisma elektronicznego do sposobu określonego w art. 74a § 5 lub 10; po uchyleniu tego paragrafu odpowiedni mechanizm potwierdzenia przejmie nowy art. 65a. Paragraf 2 nakłada na doręczającego obowiązki dokumentacyjne – stwierdzenie na potwierdzeniu odbioru sposobu doręczenia oraz zaznaczenie na doręczonym piśmie dnia doręczenia, opatrzone własnym podpisem doręczającego – dwutorowa dokumentacja czynności istotna dla ewentualnego sporu co do jej prawidłowości.
 
@@ -672,13 +672,13 @@ Przepis otwiera rozdział 5, poświęcony terminom, i określa moment rozpoczęc
 >
 > § 4. To samo dotyczy złożenia pisma przez żołnierza w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji zakładu karnego lub aresztu śledczego oraz przez członka załogi polskiego statku morskiego u kapitana statku.
 >
-> § 5. Datą wniesienia pisma w formie dokumentu elektronicznego jest określona w urzędowym poświadczeniu odbioru data wprowadzenia pisma do systemu teleinformatycznego sądu lub właściwego organu.
+> § 5.⁽⁴⁸⁾ Datą wniesienia pisma w formie dokumentu elektronicznego jest określona w urzędowym poświadczeniu odbioru data wprowadzenia pisma do systemu teleinformatycznego sądu lub właściwego organu.
 >
-> § 5. Datą wniesienia pisma w postaci elektronicznej jest określona w dowodzie otrzymania, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, data wprowadzenia pisma do systemu teleinformatycznego sądu lub właściwego organu.
+> § 5.⁽⁴⁹⁾ Datą wniesienia pisma w postaci elektronicznej jest określona w dowodzie otrzymania, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, data wprowadzenia pisma do systemu teleinformatycznego sądu lub właściwego organu.
 
-*Odnośnik w tekście jednolitym:* W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 49.
+*Odnośnik w tekście jednolitym* 48) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 49.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 96 pkt 17 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
+*Odnośnik w tekście jednolitym* 49) W brzmieniu ustalonym przez art. 96 pkt 17 ustawy, o której mowa w odnośniku 9; wejdzie w życie z dniem 1 października 2029 r.
 
 Przepis reguluje sposób obliczania terminów oraz zasady ustalania daty wniesienia pisma. Paragraf 1 odsyła do przepisów prawa cywilnego jako reguły podstawowej, z zastrzeżeniem § 2. Paragraf 2 przesuwa ostatni dzień terminu przypadający na sobotę lub dzień ustawowo wolny od pracy na najbliższy dzień roboczy – rozwiązanie zrównujące sobotę z dniami wolnymi dla celów obliczania terminów procesowych. Paragraf 3 ustanawia zasadę daty stempla pocztowego – oddanie pisma w polskiej placówce pocztowej operatora wyznaczonego, w placówce pocztowej operatora świadczącego pocztowe usługi powszechne w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie EFTA będącym stroną umowy o Europejskim Obszarze Gospodarczym, albo w polskim urzędzie konsularnym, jest równoznaczne z wniesieniem pisma do sądu – rozwiązanie chroniące stronę przed czasem obiegu przesyłki pocztowej. Paragraf 4 rozciąga tę zasadę na złożenie pisma przez żołnierza w dowództwie jednostki wojskowej, przez osobę pozbawioną wolności w administracji zakładu karnego lub aresztu śledczego oraz przez członka załogi polskiego statku morskiego u kapitana statku – podmioty znajdujące się w szczególnej sytuacji faktycznej uniemożliwiającej bezpośrednie złożenie pisma w sądzie lub placówce pocztowej. Paragraf 5, przedstawiony w dwóch redakcjach odzwierciedlających dostosowanie terminologiczne do ustawy o doręczeniach elektronicznych, wiąże datę wniesienia pisma elektronicznego z datą wprowadzenia pisma do systemu teleinformatycznego sądu lub właściwego organu, określoną w urzędowym poświadczeniu odbioru, a docelowo w dowodzie otrzymania, o którym mowa w art. 41 ustawy o doręczeniach elektronicznych.
 
@@ -924,13 +924,13 @@ Przepis wprowadza instytucję zastrzeżenia do protokołu, będącą warunkiem z
 >
 > § 3. Sąd może z urzędu lub na wniosek stron przeprowadzić dowody uzupełniające z dokumentów, jeżeli jest to niezbędne do wyjaśnienia istotnych wątpliwości i nie spowoduje nadmiernego przedłużenia postępowania w sprawie.
 >
-> § 3a. Sąd może z urzędu zwrócić się do organizacji społecznej lub organu administracji publicznej o przedstawienie sądowi istotnego dla sprawy poglądu, jeżeli uzna to za przydatne do wyjaśnienia istotnych wątpliwości i nie spowoduje to nadmiernego przedłużenia postępowania w sprawie.
+> § 3a.⁽⁵⁰⁾ Sąd może z urzędu zwrócić się do organizacji społecznej lub organu administracji publicznej o przedstawienie sądowi istotnego dla sprawy poglądu, jeżeli uzna to za przydatne do wyjaśnienia istotnych wątpliwości i nie spowoduje to nadmiernego przedłużenia postępowania w sprawie.
 >
 > § 4. Fakty powszechnie znane sąd bierze pod uwagę nawet bez powołania się na nie przez strony.
 >
 > § 5. Do postępowania dowodowego, o którym mowa w § 3, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 10.
+*Odnośnik w tekście jednolitym* 50) Dodany przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 10.
 
 Przepis reguluje przebieg rozprawy i stanowi jeden z najbardziej szczegółowych przepisów dotyczących posiedzenia jawnego. Paragraf 1 stanowi, że rozprawa rozpoczyna się od sprawozdania sędziego, który zwięźle przedstawia na podstawie akt stan sprawy, ze szczególnym uwzględnieniem zarzutów skargi – element ten ma charakter urzędowy, inkwizycyjny, odróżniający postępowanie sądowoadministracyjne od czysto kontradyktoryjnego procesu cywilnego. Paragraf 2 określa kolejność zabierania głosu przez strony – najpierw skarżący, a następnie organ – z możliwością zgłaszania ustnie żądań i wniosków, składania wyjaśnień oraz wskazywania podstaw prawnych i faktycznych żądań i wniosków; kolejność udzielania głosu pozostałym stronom, np. uczestnikom na prawach strony, ustala przewodniczący. Paragraf 3 dopuszcza fakultatywne postępowanie dowodowe uzupełniające z dokumentów, prowadzone z urzędu lub na wniosek stron, ograniczone dwiema przesłankami: niezbędnością do wyjaśnienia istotnych wątpliwości oraz brakiem nadmiernego przedłużenia postępowania – odzwierciedla to zasadę, że sąd administracyjny kontroluje legalność działania administracji przede wszystkim na podstawie akt sprawy, a ograniczenie do dowodów z dokumentów (z wyłączeniem np. przesłuchania świadków) podkreśla kontrolno-kasacyjny, a nie merytoryczno-rozstrzygający, charakter kognicji sądu administracyjnego. Paragraf 3a, dodany nowelizacją wskazaną w odnośniku 10, wprowadza instytucję zbliżoną do opinii amicus curiae – możliwość zwrócenia się przez sąd z urzędu do organizacji społecznej lub organu administracji publicznej o przedstawienie istotnego dla sprawy poglądu, jeżeli sąd uzna to za przydatne do wyjaśnienia istotnych wątpliwości i nie spowoduje to nadmiernego przedłużenia postępowania – wzmocnienie elementu eksperckiego i społecznego w postępowaniu sądowoadministracyjnym. Paragraf 4 nakazuje uwzględnianie z urzędu faktów powszechnie znanych, bez potrzeby ich dowodzenia przez strony. Paragraf 5 nakazuje odpowiednie stosowanie przepisów Kodeksu postępowania cywilnego do postępowania dowodowego z § 3 – uzupełniające odesłanie do bardziej rozbudowanej regulacji dowodowej k.p.c. w zakresie techniki przeprowadzania dowodu z dokumentu.
 
@@ -970,11 +970,11 @@ Przepis wprowadza kolejną, samodzielną przesłankę obligatoryjnego odroczenia
 
 **Brzmienie przepisu:**
 
-> Art. 111. § 1. Sąd zarządza połączenie kilku oddzielnych spraw toczących się przed nim w celu ich łącznego rozpoznania lub także rozstrzygnięcia, jeżeli mogły być objęte jedną skargą i nie spowoduje to nadmiernego przedłużenia postępowania w sprawie.
+> Art. 111. § 1.⁽⁵¹⁾ Sąd zarządza połączenie kilku oddzielnych spraw toczących się przed nim w celu ich łącznego rozpoznania lub także rozstrzygnięcia, jeżeli mogły być objęte jedną skargą i nie spowoduje to nadmiernego przedłużenia postępowania w sprawie.
 >
 > § 2. Sąd może zarządzić połączenie kilku oddzielnych spraw toczących się przed nim w celu ich łącznego rozpoznania lub także rozstrzygnięcia, jeżeli pozostają one ze sobą w związku.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 10.
+*Odnośnik w tekście jednolitym* 51) W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 10.
 
 Przepis reguluje połączenie spraw do wspólnego rozpoznania lub rozstrzygnięcia. Paragraf 1, w brzmieniu ustalonym nowelizacją wskazaną w odnośniku 10, przewiduje obligatoryjne połączenie przez sąd kilku oddzielnych spraw toczących się przed nim, jeżeli mogły być objęte jedną skargą – a więc dotyczą tożsamego przedmiotu w rozumieniu zbliżonym do art. 51 – i nie spowoduje to nadmiernego przedłużenia postępowania. Paragraf 2 przewiduje fakultatywne połączenie spraw pozostających ze sobą w związku – więź słabszą niż tożsamość przedmiotu z § 1 – pozostawione ocenie sądu ze względu na ekonomikę procesową i spójność orzecznictwa w sprawach powiązanych.
 

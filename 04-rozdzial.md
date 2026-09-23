@@ -394,9 +394,9 @@ Przepis wprowadza instrumenty ulgowego traktowania dłużników z tytułu nieuis
 
 > Art. 230. § 1. Od pism wszczynających postępowanie przed sądem administracyjnym w danej instancji pobiera się wpis stosunkowy lub stały.
 >
-> § 2. Pismami, o których mowa w § 1, są skarga, sprzeciw od decyzji, sprzeciw od postanowienia, skarga kasacyjna, zażalenie oraz skarga o wznowienie postępowania.
+> § 2.⁽⁶⁰⁾ Pismami, o których mowa w § 1, są skarga, sprzeciw od decyzji, sprzeciw od postanowienia, skarga kasacyjna, zażalenie oraz skarga o wznowienie postępowania.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 15 pkt 8 ustawy, o której mowa w odnośniku 6.
+*Odnośnik w tekście jednolitym* 60) W brzmieniu ustalonym przez art. 15 pkt 8 ustawy, o której mowa w odnośniku 6.
 
 Przepis otwiera oddział poświęcony wpisowi jako jednej z dwóch kategorii opłat sądowych. Paragraf 1 formułuje zasadę, że od pism wszczynających postępowanie przed sądem administracyjnym w danej instancji pobiera się wpis, który może przybrać postać wpisu stosunkowego lub stałego (rozróżnienie to konkretyzuje art. 231). Paragraf 2 zawiera zamknięty katalog pism podlegających opłacie wpisem: skargę, sprzeciw od decyzji, sprzeciw od postanowienia, skargę kasacyjną, zażalenie oraz skargę o wznowienie postępowania. Zgodnie z przypisem urzędowym do przepisu, obowiązujące brzmienie § 2 zostało ustalone nowelizacją wskazaną w odnośniku 6 – katalog ten obejmuje więc także stosunkowo nową instytucję sprzeciwu od postanowienia, obok wcześniej funkcjonującego sprzeciwu od decyzji, co odzwierciedla rozwój środków zaskarżenia w postępowaniu sądowoadministracyjnym.
 
@@ -416,11 +416,11 @@ Przepis wprowadza podstawowe rozróżnienie dwóch rodzajów wpisu. Wpis stosunk
 >
 > 1) pisma odrzuconego lub cofniętego do dnia rozpoczęcia rozprawy;
 >
-> 2) zażalenia na postanowienie, jeżeli zażalenie zostało uwzględnione.
+> 2)⁽⁶¹⁾ zażalenia na postanowienie, jeżeli zażalenie zostało uwzględnione.
 >
 > § 2. Postanowienie w przedmiocie zwrotu wpisu może być wydane na posiedzeniu niejawnym.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 10.
+*Odnośnik w tekście jednolitym* 61) W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 10.
 
 Przepis reguluje przypadki zwrotu uiszczonego wpisu. Paragraf 1 przewiduje zwrot z urzędu całego uiszczonego wpisu w dwóch sytuacjach: od pisma odrzuconego lub cofniętego do dnia rozpoczęcia rozprawy (pkt 1) oraz od zażalenia na postanowienie, jeżeli zażalenie zostało uwzględnione (pkt 2) – w obu przypadkach racją zwrotu jest brak merytorycznego rozpoznania sprawy w wyniku okoliczności niezwiązanych z jej istotą (odrzucenie, cofnięcie) albo potwierdzenie zasadności zaskarżenia (uwzględnienie zażalenia), co czyni pobór opłaty bezprzedmiotowym. Paragraf 2 dopuszcza wydanie postanowienia w przedmiocie zwrotu wpisu na posiedzeniu niejawnym, co upraszcza i przyspiesza tę czynność o charakterze technicznym. Przypis urzędowy wskazuje, że obowiązujące brzmienie przepisu zostało ustalone nowelizacją wymienioną w odnośniku 10.
 
@@ -514,7 +514,7 @@ Przepis reguluje konsekwencje niewpłacenia zaliczki na wydatki wymaganej na pod
 >
 > a) z zakresu pomocy i opieki społecznej, b) dotyczących statusu bezrobotnego, zasiłków oraz innych należności i uprawnień przysługujących osobie bezrobotnej, c) dotyczących chorób zawodowych, świadczeń leczniczych oraz świadczeń rehabilitacyjnych, d) ze stosunków pracy i stosunków służbowych, e) z zakresu ubezpieczeń społecznych, f) z zakresu obowiązku obrony Ojczyzny, g) udzielania cudzoziemcom ochrony, h) dotyczących dodatków mieszkaniowych;
 >
-> 2) prokurator, Rzecznik Praw Obywatelskich, Rzecznik Praw Dziecka i Rzecznik Małych i Średnich Przedsiębiorców;
+> 2)⁽⁶²⁾ prokurator, Rzecznik Praw Obywatelskich, Rzecznik Praw Dziecka i Rzecznik Małych i Średnich Przedsiębiorców;
 >
 > 3) kurator strony wyznaczony przez sąd orzekający lub przez sąd opiekuńczy dla danej sprawy;
 >
@@ -522,7 +522,7 @@ Przepis reguluje konsekwencje niewpłacenia zaliczki na wydatki wymaganej na pod
 >
 > § 2. Nie mają obowiązku uiszczania opłat sądowych organizacje pożytku publicznego, działające na podstawie przepisów o działalności pożytku publicznego i o wolontariacie, w sprawach własnych, z wyjątkiem spraw dotyczących prowadzonej przez te organizacje działalności gospodarczej, a także organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338) w sprawach własnych dotyczących realizacji zleconego zadania publicznego na podstawie przepisów o działalności pożytku publicznego i o wolontariacie.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 15 pkt 9 ustawy, o której mowa w odnośniku 6.
+*Odnośnik w tekście jednolitym* 62) W brzmieniu ustalonym przez art. 15 pkt 9 ustawy, o której mowa w odnośniku 6.
 
 Przepis otwiera rozdział poświęcony zwolnieniu od kosztów sądowych i wprowadza katalog zwolnień ustawowych, działających z mocy prawa, bez potrzeby wydania odrębnego orzeczenia. Paragraf 1 wymienia kategorie podmiotów wolnych od obowiązku uiszczenia kosztów sądowych: stronę skarżącą działanie, bezczynność organu lub przewlekłe prowadzenie postępowania w enumeratywnie wskazanych sprawach o istotnym znaczeniu socjalnym – z zakresu pomocy i opieki społecznej, statusu bezrobotnego i świadczeń dla osób bezrobotnych, chorób zawodowych i świadczeń leczniczo-rehabilitacyjnych, stosunków pracy i stosunków służbowych, ubezpieczeń społecznych, obowiązku obrony Ojczyzny, udzielania cudzoziemcom ochrony oraz dodatków mieszkaniowych (pkt 1); prokuratora, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka i Rzecznika Małych i Średnich Przedsiębiorców, działających w ramach swoich kompetencji ustrojowych (pkt 2); kuratora strony wyznaczonego przez sąd orzekający lub opiekuńczy dla danej sprawy (pkt 3); oraz stronę, której przyznano prawo pomocy, w zakresie określonym prawomocnym postanowieniem o jego przyznaniu (pkt 4) – to ostatnie zwolnienie ma charakter zindywidualizowany i konstytutywny, w przeciwieństwie do pozostałych, działających z mocy samego prawa. Paragraf 2 zwalnia od opłat sądowych organizacje pożytku publicznego w sprawach własnych, z wyjątkiem spraw dotyczących prowadzonej przez nie działalności gospodarczej, a także organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 ustawy o działalności pożytku publicznego i o wolontariacie w sprawach własnych dotyczących realizacji zleconego zadania publicznego. Przypis urzędowy wskazuje, że obecne brzmienie § 1 zostało ustalone nowelizacją wymienioną w odnośniku 6, co świadczy o stosunkowo niedawnym rozszerzeniu katalogu podmiotowych zwolnień.
 
